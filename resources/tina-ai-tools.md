@@ -32,6 +32,19 @@ These tools are companion resources. The full UnBlooms framework, workbook exerc
 
 **Use it here:** [Regenerative Medicine Mentor](https://chatgpt.com/g/g-76C7Y0hzJ-regenerative-medicine-mentor)
 
+### Computational Biology Mentor
+
+**Best for:** students, educators, and learners working through computational biology concepts.
+
+**What it helps with:**
+
+- reviewing computational biology terminology
+- exploring bioinformatics, genomics, modeling, and data analysis concepts
+- supporting study and conceptual understanding
+- asking clearer questions about biological data and computational methods
+
+**Use it here:** [Computational Biology Mentor](https://chatgpt.com/g/g-67d109ba346081918321e47bfd4ba8b4-computational-biology-mentor)
+
 ## Note
 
 These GPTs are designed as public-facing entry points. For the complete framework and classroom-ready materials, see the [UnBlooms book](https://www.amazon.com/dp/B0GKZXXW4G?ref=cm_sw_r_ffobk_cp_ud_dp_M60YZKM1Q9ANH60FGSKJ&ref_=cm_sw_r_ffobk_cp_ud_dp_M60YZKM1Q9ANH60FGSKJ&social_share=cm_sw_r_ffobk_cp_ud_dp_M60YZKM1Q9ANH60FGSKJ&bestFormat=true).
