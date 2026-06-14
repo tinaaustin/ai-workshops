@@ -9,6 +9,7 @@ This repository introduces the UnBlooms framework and points educators toward se
 | Resource | Best For | Link |
 | --- | --- | --- |
 | UnBlooms overview | Understanding the framework at a high level | Coming soon |
+| AI education glossary | Quick definitions for common AI teaching and assessment terms | [Glossary](resources/ai-education-glossary.md) |
 | Related writing | Essays on AI, education, cognition, and assessment | [Tina's Substack](https://tinaaustin.substack.com/) |
 | UnBlooms book | Full workbook, exercises, rubrics, and classroom-ready materials | Amazon |
 
@@ -19,6 +20,7 @@ UnBlooms is a practical framework for educators who want to preserve student thi
 ## What You Will Find Here
 
 - A brief introduction to UnBlooms.
+- A short glossary of AI education terminology.
 - Links to public writing and talks.
 - Selected sample resources.
 - Updates related to workshops, speaking, and book materials.
