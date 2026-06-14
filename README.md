@@ -1,2 +1,3 @@
 # ai-workshops
 AI workshops, presentations, activities, and educational resources.
+https://tinaaustin.substack.com/p/the-evolution-of-blooms-taxonomy?r=4a98uc
