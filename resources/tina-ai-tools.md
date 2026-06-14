@@ -19,6 +19,19 @@ These tools are companion resources. The full UnBlooms framework, workbook exerc
 
 **Use it here:** [UnBloom It(TM): Help Educators Think Critically](https://chatgpt.com/g/g-688277ee71248191a0cbbcad587bdc2a-unbloom-ittm-help-educators-think-critically)
 
+### Regenerative Medicine Mentor
+
+**Best for:** students, educators, and lifelong learners exploring regenerative medicine concepts.
+
+**What it helps with:**
+
+- reviewing regenerative medicine terminology
+- exploring concepts in tissue repair, stem cells, biomaterials, and translational medicine
+- supporting study, discussion, and conceptual understanding
+- asking clearer questions about emerging biomedical science
+
+**Use it here:** [Regenerative Medicine Mentor](https://chatgpt.com/g/g-76C7Y0hzJ-regenerative-medicine-mentor)
+
 ## Note
 
 These GPTs are designed as public-facing entry points. For the complete framework and classroom-ready materials, see the [UnBlooms book](https://www.amazon.com/dp/B0GKZXXW4G?ref=cm_sw_r_ffobk_cp_ud_dp_M60YZKM1Q9ANH60FGSKJ&ref_=cm_sw_r_ffobk_cp_ud_dp_M60YZKM1Q9ANH60FGSKJ&social_share=cm_sw_r_ffobk_cp_ud_dp_M60YZKM1Q9ANH60FGSKJ&bestFormat=true).
