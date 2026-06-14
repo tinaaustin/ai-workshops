@@ -13,6 +13,7 @@ This repository introduces the UnBlooms framework and points educators toward se
 | AI educator starter kit | A short public starting point for teaching and assessment conversations | [Starter Kit](resources/educator-starter-kit.md) |
 | Course AI policy starter | Lightweight language educators can adapt for course expectations | [Policy Starter](resources/course-ai-policy-starter.md) |
 | Faculty conversation starters | Questions for faculty meetings and professional development | [Conversation Starters](resources/faculty-ai-conversation-starters.md) |
+| Tina's AI tools for educators | Public GPTs and companion tools for educators | [AI Tools](resources/tina-ai-tools.md) |
 | Related writing | Essays on AI, education, cognition, and assessment | [Tina's Substack](https://tinaaustin.substack.com/) |
 | UnBlooms book | Full workbook, exercises, rubrics, and classroom-ready materials | [Amazon](https://www.amazon.com/dp/B0GKZXXW4G?ref=cm_sw_r_ffobk_cp_ud_dp_M60YZKM1Q9ANH60FGSKJ&ref_=cm_sw_r_ffobk_cp_ud_dp_M60YZKM1Q9ANH60FGSKJ&social_share=cm_sw_r_ffobk_cp_ud_dp_M60YZKM1Q9ANH60FGSKJ&bestFormat=true) |
 
@@ -25,6 +26,7 @@ UnBlooms is a practical framework for educators who want to preserve student thi
 - A brief introduction to UnBlooms.
 - A short glossary of AI education terminology.
 - Lightweight public resources for educators starting AI teaching conversations.
+- Links to public GPTs and companion AI tools.
 - Links to public writing and talks.
 - Selected sample resources.
 - Updates related to workshops, speaking, and book materials.
